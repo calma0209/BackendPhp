@@ -1,0 +1,12 @@
+HTTP_CODE: 200
+Response:
+{"id_usuario":8,"nombre_usuario":"Luis","email":"luis@email.com","contraseña":"$2a$10$3KWF7JkczqXVZ4EMZGxF9uupsbxPy24lZZmV2WRhQ789TrdDyzN7e","rol":"usuario","fecha_creacion":"2025-03-09T18:05:06.000+00:00","contraseña_actual":null}
+
+HTTP_CODE: 200
+Response:
+{"id_usuario":7,"nombre_usuario":"julen","email":"julen@email.com","contraseña":"$2a$10$8HCdITZEUEf3o6YGyHTaFuYsLxgSM.d./S9DUocCVAt1Oj/LZ5cQy","rol":"usuario","fecha_creacion":"2025-03-09T17:46:18.000+00:00","contraseña_actual":null}
+
+HTTP_CODE: 200
+Response:
+{"id_usuario":7,"nombre_usuario":"julen","email":"julen@email.com","contraseña":"$2a$10$8HCdITZEUEf3o6YGyHTaFuYsLxgSM.d./S9DUocCVAt1Oj/LZ5cQy","rol":"usuario","fecha_creacion":"2025-03-09T17:46:18.000+00:00","contraseña_actual":null}
+

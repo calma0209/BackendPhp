@@ -1,0 +1,8 @@
+HTTP_CODE: 400
+Response:
+not-null property references a null or transient value: com.example.proyectoAppi.model.usuario.email
+
+HTTP_CODE: 400
+Response:
+not-null property references a null or transient value: com.example.proyectoAppi.model.usuario.email
+
